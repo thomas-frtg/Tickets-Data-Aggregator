@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6uRZKqfOmc=",
+  "success": true,
+  "projectFilePath": "C:\\MyDev\\C#\\01_Projects\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\pdfpig\\0.1.9\\pdfpig.0.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

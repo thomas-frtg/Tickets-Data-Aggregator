@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyDev\\C#\\01_Projects\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA28ED7-39CB-452D-8A99-F6246B9354A0}|Tickets-Data-Aggregator\\Tickets-Data-Aggregator.csproj|c:\\mydev\\c#\\01_projects\\tickets-data-aggregator\\tickets-data-aggregator\\tickets-data-aggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA28ED7-39CB-452D-8A99-F6246B9354A0}|Tickets-Data-Aggregator\\Tickets-Data-Aggregator.csproj|solutionrelative:tickets-data-aggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyDev\\C#\\01_Projects\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Program.cs",
+              "RelativeDocumentMoniker": "Tickets-Data-Aggregator\\Program.cs",
+              "ToolTip": "C:\\MyDev\\C#\\01_Projects\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Tickets-Data-Aggregator\\Program.cs",
+              "RelativeToolTip": "Tickets-Data-Aggregator\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:10:32.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
